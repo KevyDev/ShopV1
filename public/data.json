@@ -1,0 +1,144 @@
+{
+    "products": [
+        {
+            "id": "01",
+            "name": "Car",
+            "description": "That's a beatiful car that you must buy right now!! It's cheap and u can choose your favorite color for it! what are u waiting for?",
+            "price": 9.99,
+            "discount": 66,
+            "img": [
+                [
+                    "Cover.jpg",
+                    "Carro de juguete"
+                ]
+            ],
+            "stars": 1
+        },
+        {
+            "id": "02",
+            "name": "Car",
+            "description": "That's a beatiful car that you must buy right now!! It's cheap and u can choose your favorite color for it! what are u waiting for?",
+            "price": 9.99,
+            "discount": false,
+            "img": [
+                [
+                    "Cover.jpg",
+                    "Carro de juguete"
+                ]
+            ],
+            "stars": 4.5
+        },
+        {
+            "id": "03",
+            "name": "Car",
+            "description": "That's a beatiful car that you must buy right now!! It's cheap and u can choose your favorite color for it! what are u waiting for?",
+            "price": 9.99,
+            "discount": false,
+            "img": [
+                [
+                    "Cover.jpg",
+                    "Carro de juguete"
+                ]
+            ],
+            "stars": 3
+        },
+        {
+            "id": "04",
+            "name": "Car",
+            "description": "That's a beatiful car that you must buy right now!! It's cheap and u can choose your favorite color for it! what are u waiting for?",
+            "price": 100,
+            "discount": 50,
+            "img": [
+                [
+                    "Cover.jpg",
+                    "Carro de juguete"
+                ]
+            ],
+            "stars": 0.5
+        },
+        {
+            "id": "05",
+            "name": "Car",
+            "description": "That's a beatiful car that you must buy right now!! It's cheap and u can choose your favorite color for it! what are u waiting for?",
+            "price": 9.99,
+            "discount": false,
+            "img": [
+                [
+                    "Cover.jpg",
+                    "Carro de juguete"
+                ]
+            ],
+            "stars": 0
+        },
+        {
+            "id": "06",
+            "name": "Car",
+            "description": "That's a beatiful car that you must buy right now!! It's cheap and u can choose your favorite color for it! what are u waiting for?",
+            "price": 9.99,
+            "discount": false,
+            "img": [
+                [
+                    "Cover.jpg",
+                    "Carro de juguete"
+                ]
+            ],
+            "stars": 5
+        },
+        {
+            "id": "07",
+            "name": "Car",
+            "description": "That's a beatiful car that you must buy right now!! It's cheap and u can choose your favorite color for it! what are u waiting for?",
+            "price": 9.99,
+            "discount": false,
+            "img": [
+                [
+                    "Cover.jpg",
+                    "Carro de juguete"
+                ]
+            ],
+            "stars": 0
+        },
+        {
+            "id": "08",
+            "name": "Car",
+            "description": "That's a beatiful car that you must buy right now!! It's cheap and u can choose your favorite color for it! what are u waiting for?",
+            "price": 9.99,
+            "discount": false,
+            "img": [
+                [
+                    "Cover.jpg",
+                    "Carro de juguete"
+                ]
+            ],
+            "stars": 4
+        },
+        {
+            "id": "09",
+            "name": "Car",
+            "description": "That's a beatiful car that you must buy right now!! It's cheap and u can choose your favorite color for it! what are u waiting for?",
+            "price": 9.99,
+            "discount": false,
+            "img": [
+                [
+                    "Cover.jpg",
+                    "Carro de juguete"
+                ]
+            ],
+            "stars": 0
+        },
+        {
+            "id": "10",
+            "name": "Car",
+            "description": "That's a beatiful car that you must buy right now!! It's cheap and u can choose your favorite color for it! what are u waiting for?",
+            "price": 9.99,
+            "discount": false,
+            "img": [
+                [
+                    "Cover.jpg",
+                    "Carro de juguete"
+                ]
+            ],
+            "stars": 0
+        }
+    ]
+}
